@@ -1,6 +1,6 @@
 # Pacmen
 ## Description: 
-This is a game where you start off with a blank screen. When you click "Add Pacman" a pacman enters teh screen and moves in a random projected track. You can add as many pacman as you like. When you click "Start Game" the velocity of the Pacman moving across the screen increases and the movement projection is random.
+This is a game where you start off with a blank screen. When you click "Add Pacman" a pacman enters the screen and moves in a random projected track. You can add as many pacman as you like. When you click "Start Game" the velocity of the Pacman moving across the screen increases and the movement projection is random.
 
 ## Repository Contents
 * Index.html
